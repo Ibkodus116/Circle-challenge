@@ -15,11 +15,6 @@ article {
   justify-content: center;
 }
 .container {
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* border: 5px solid black; */
-  /* justify-content: center;
-    align-items: center; */
   padding: 20px;
   margin: 50px;
   background-color: aliceblue;
@@ -49,7 +44,6 @@ article {
 
 ul li,
 ol li {
-  /* line-height: 25px; */
   font-family: "Outfit", serif;
   padding-left: 10px;
   margin-bottom: 10px;
@@ -105,7 +99,6 @@ footer a {
   .container {
     box-shadow: none;
     margin: 0;
-    /* border: 1px solid black; */
     padding: 0;
   }
   body {
